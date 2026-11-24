@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="jJOa43iXQmpDrJjIQj1jy65F_xuj6rXej_sHtfZ6O8k" />
 <div align="center">
 
 <!-- HERO BANNER (Dynamic SVG Header in Brand Palette) -->
